@@ -1,5 +1,6 @@
 body {
-  color: red;
-  font-size: 100px;
+  color: #333;
   font-family: 'Nanum Gothic', sans-serif;
+  line-height: 1.4;
+  font-weight: 400;
 }
